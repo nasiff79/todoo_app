@@ -1,6 +1,6 @@
 # todoo_app
 
-A new Flutter application.
+To Do List application.
 
 ## Getting Started
 
